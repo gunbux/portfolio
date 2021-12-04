@@ -1,0 +1,12 @@
+export const background = '#282a36'
+export const line = '#44475a'
+export const foreground = '#f8f8f2'
+export const comment = '#6272a4'
+
+export const cyan = '#8be9fd'
+export const green = '#50fa7b'
+export const orange = '#ffb86c'
+export const pink = '#ff79c6'
+export const purple = '#bd93f9'
+export const red = '#ff5555'
+export const yellow = '#f1fa8c'
